@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yashwanth reddy
 - 👀 I’m interested in Developing websites or mobile apps
-- 🌱 I’m currently learning Pyqt5 for a project that I am working on
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 You can reach me by mailing to jyashwanthreddy373@gmail.com
 
