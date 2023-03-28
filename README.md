@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yashwanth reddy
 - 👀 I’m interested in Developing websites or mobile apps
 - 🌱 I’m currently learning Azure Services for Data Analytics.
-- 💞️ I’m looking to collaborate on Web Development Projects
+- 💞️ I’m looking to collaborate on any Cloud based Projects.
 - 📫 You can reach me by mailing to jyashwanthreddy373@gmail.com
 
 <!---
